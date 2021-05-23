@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="TabPacketBlocker:jar">
+    <output-path>$PROJECT_DIR$/../../Local Servers &amp; Setups/LOCAL 188/plugins</output-path>
+    <root id="archive" name="TabPacketBlocker.jar">
+      <element id="module-output" name="TabPacketBlocker" />
+    </root>
+  </artifact>
+</component>

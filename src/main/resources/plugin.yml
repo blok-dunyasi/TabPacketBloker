@@ -1,0 +1,7 @@
+name: TabPacketBloker
+description: This is not blocker. This is a bloker!
+version: 3.0.0
+authors: [ Mrtol, Mr_Obliviate ]
+softdepend:
+  - ProtocolLib
+main: mc.obliviate.tabpacketblocker.TabPacketBlocker
