@@ -19,8 +19,12 @@ public class PacketListener extends PacketAdapter {
         super(plugin, ListenerPriority.HIGHEST, PacketType.Play.Client.TAB_COMPLETE);
     }
 
+
+
     @Override
     public void onPacketReceiving(PacketEvent event) {
+
+
         String tabString = event.getPacket().getSpecificModifier(String.class).read(0).toLowerCase();
         for (String tab : config.getStringList("block-commands")) {
             if (tabString.contains(tab)) {
