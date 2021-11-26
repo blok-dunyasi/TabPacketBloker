@@ -1,6 +1,5 @@
 # TabPacketBloker
-
-
+#### its not a blocker its a bloker.
 This plugin blocks dangerous tab packets.
 
 - Blocks events at packet level.
@@ -9,3 +8,4 @@ This plugin blocks dangerous tab packets.
 - Most customizable configuration file.
 
 coded for Blok Dunyasi.
+
